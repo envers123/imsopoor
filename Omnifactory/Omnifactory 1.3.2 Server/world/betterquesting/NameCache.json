@@ -1,0 +1,39 @@
+{
+  "nameCache:9": {
+    "0:10": {
+      "isOP:1": 1,
+      "name:8": "chigga",
+      "uuid:8": "de2902d0-0f1e-3fa2-a8a9-4087713ff2d4"
+    },
+    "1:10": {
+      "isOP:1": 0,
+      "name:8": "Moonx5",
+      "uuid:8": "4d5cbb9b-4180-3758-9fe0-dae44627e749"
+    },
+    "2:10": {
+      "isOP:1": 0,
+      "name:8": "Delpion",
+      "uuid:8": "ba25f6de-dffd-49a4-ade0-d2698ac5695b"
+    },
+    "3:10": {
+      "isOP:1": 0,
+      "name:8": "Choco",
+      "uuid:8": "ff93ad71-5adf-3bea-a7e7-78caecc6be6b"
+    },
+    "4:10": {
+      "isOP:1": 0,
+      "name:8": "lwess",
+      "uuid:8": "b722d216-051e-3887-8bb9-accb2a910ab7"
+    },
+    "5:10": {
+      "isOP:1": 1,
+      "name:8": "Delpion",
+      "uuid:8": "3744ecfd-4d8a-35e7-a554-706f2d802af4"
+    },
+    "6:10": {
+      "isOP:1": 0,
+      "name:8": "Kiro",
+      "uuid:8": "f69b0b6f-2975-3934-b870-3e5e9f96aff1"
+    }
+  }
+}

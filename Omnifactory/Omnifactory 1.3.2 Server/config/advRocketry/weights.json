@@ -1,0 +1,10 @@
+{
+  "individual": {
+    "advancedrocketry:planetidchip": 0.1,
+    "advancedrocketry:fueltank": 0.2,
+    "fluid.rocketFuel": 0.001,
+    "advancedrocketry:seat": 0.1,
+    "advancedrocketry:guidancecomputer": 1.8,
+    "advancedrocketry:rocketmotor": 2.0
+  }
+}
