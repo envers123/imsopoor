@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-    rclone copy "/workspaces/imreallypoor/nomifactory/world" \
+    rclone copy "/workspaces/imsopoor/nomifactory/world" \
                 "mega:Omnibackups/worlds_5min" \
                 --update --progress
                 
