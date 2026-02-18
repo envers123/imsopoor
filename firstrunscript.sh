@@ -14,10 +14,6 @@ yes | curl -fsSL https://mega.nz/linux/repo/Debian_11/Release.key | sudo gpg --d
 yes | echo "deb [signed-by=/usr/share/keyrings/mega.gpg] https://mega.nz/linux/repo/Debian_11/ ./" | sudo tee /etc/apt/sources.list.d/mega.list
 yes | sudo apt update
 yes | sudo apt install megacmd
-mega-login assimrejeb@hotmail.com assouma060410@
-sudo rm /etc/apt/sources.list.d/mega*
-
-echo configuring rclone
 
 mkdir -p ~/.config/rclone
 REMOTE_NAME="mega"
@@ -30,6 +26,13 @@ type = mega
 user = $USER_EMAIL
 pass = $ENC_PASS
 EOL
+
+
+mega-login assimrejeb@hotmail.com assouma060410@
+sudo rm /etc/apt/sources.list.d/mega*
+
+echo configuring rclone
+
 
 echo "Rclone installed and configured! Remote: $REMOTE_NAME"
 
