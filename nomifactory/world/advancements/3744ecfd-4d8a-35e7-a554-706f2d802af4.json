@@ -1195,6 +1195,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/suitedup": {
+    "criteria": {
+      "suited": "2026-02-19 22:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2026-01-27 18:19:29 +0000"
@@ -2004,6 +2010,12 @@
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2026-02-03 02:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2026-02-19 21:36:42 +0000"
     },
     "done": true
   },
