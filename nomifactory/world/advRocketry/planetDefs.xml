@@ -28,7 +28,7 @@
                 <orbitalPhi>0</orbitalPhi>
                 <peakInsolation>0.5813333333333334</peakInsolation>
                 <peakInsolationNoAtmosphere>0.5813333333333334</peakInsolationNoAtmosphere>
-                <avgTemperature>286</avgTemperature>
+                <avgTemperature>208</avgTemperature>
                 <rotationalPeriod>128000</rotationalPeriod>
                 <atmosphereDensity>0</atmosphereDensity>
                 <generateCraters>false</generateCraters>
