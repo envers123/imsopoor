@@ -614,6 +614,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/p2p": {
+    "criteria": {
+      "certus": "2026-02-21 00:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2026-01-20 17:29:22 +0000"
