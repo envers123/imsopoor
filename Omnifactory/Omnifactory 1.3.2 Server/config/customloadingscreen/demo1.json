@@ -1,0 +1,38 @@
+{
+    "renders": [
+        {
+          "image": {
+              "parent": "builtin/image",
+              "image": "config:images/slideshow_1.png",
+              "frame": "slideshow_frame(transition_duration, frame_count)",
+              "position_type": "CENTER",
+              "offset_pos": "CENTER",
+              "colour": "0xFF_FF_FF_FF",
+              "position": {
+                  "x": "0",
+                  "y": "0",
+                  "width": "screen_width",
+                  "height": "screen_height"
+                          }
+                    }
+        },
+        "sample/horizontal_stripe",
+        "sample/loading_bar_bevel",
+        "sample/loading_bar_bevel_percentage",
+        "sample/text_status_white",
+        "sample/text_sub_status_white",
+        "sample/text_percentage_white"
+        ],
+        "functions":[
+
+        ],
+        "factories":[
+
+        ],
+        "actions":[
+
+        ],
+        "variables":{
+
+        }
+}

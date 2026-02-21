@@ -1,0 +1,15 @@
+{
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2026-01-20 13:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2026-01-20 13:37:33 +0000",
+      "forest_hills": "2026-01-20 13:40:43 +0000"
+    },
+    "done": false
+  }
+}
