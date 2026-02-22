@@ -1,343 +1,131 @@
-[14:12:40] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:12:40] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:12:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:12:40] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[14:12:40] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_482, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[14:12:54] [main/INFO]: Searching /workspaces/imsopoor/nomifactory/./mods for mods
-[14:12:54] [main/INFO]: Searching /workspaces/imsopoor/nomifactory/./mods/1.12.2 for mods
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in !configanytime-3.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod com.cleanroommc.configanytime.ConfigAnytimePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: The coremod ConfigAnytimePlugin (com.cleanroommc.configanytime.ConfigAnytimePlugin) is not signed!
-[14:12:54] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-10.7.jar
-[14:12:54] [main/WARN]: The coremod -Bansoukou- (zone.rong.bansoukou.BansoukouCoreMod) is not signed!
-[14:12:54] [main/INFO]: Ikimasu!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in AdvancedRocketry-1.12.2-1.7.0-240-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod AdvancedRocketryPlugin (zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ae2-uel-v0.56.7-patched.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod AE2ELCore (appeng.core.AE2ELCore) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-Continuous-2.3.0.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod Forgelin-Continuous (io.github.chaosunity.forgelin.preloader.ForgelinPlugin) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ftb-ultimine-1202.3.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod FTBUltimineASM (com.feed_the_beast.mods.ftbultimine.FTBUltimineLoadingPlugin) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in gregtech-nomi-1.18.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod GTCELoadingPlugin (gregtech.common.asm.GTCELoadingPlugin) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in JEI-Utilities-1.12.2-0.2.13.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: The coremod JeiUtilitiesLoadingPlugin (com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in LibrarianLib-Continuous-1.12.2-4.22-2.0-3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod com.teamwizardry.librarianlib.asm.LibLibCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: The coremod LibrarianLib Plugin (com.teamwizardry.librarianlib.asm.LibLibCorePlugin) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.87_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in logisticspipes-0.10.4.7.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod logisticspipes.asm.LogisticsPipesCoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:54] [main/WARN]: The coremod LogisticsPipesCoreLoader (logisticspipes.asm.LogisticsPipesCoreLoader) is not signed!
-[14:12:54] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in loliasm-5.30.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:54] [main/WARN]: The coremod LoliASM (zone.rong.loliasm.core.LoliLoadingPlugin) is not signed!
-[14:12:54] [main/INFO]: Lolis are on the server-side.
-[14:12:54] [main/INFO]: Lolis are preparing and loading in mixins since Rongmario's too lazy to write pure ASM at times despite the mod being called 'LoliASM'
-[14:12:54] [main/WARN]: Replacing CA Certs with an updated one...
-[14:12:54] [main/INFO]: Initializing StacktraceDeobfuscator...
-[14:12:54] [main/INFO]: Found MCP stable-39 method mappings: methods-stable_39.csv
-[14:12:55] [main/INFO]: Initialized StacktraceDeobfuscator.
-[14:12:55] [main/INFO]: Installing DeobfuscatingRewritePolicy...
-[14:12:55] [main/INFO]: Installed DeobfuscatingRewritePolicy.
-[14:12:55] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.5.1.jar
-[14:12:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in nae2-1.6.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:55] [main/WARN]: The coremod NAE2-Core (co.neeve.nae2.NAE2MixinPlugin) is not signed!
-[14:12:55] [main/WARN]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[14:12:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenBlocksReopened-1.12.2-1.8.3.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:55] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:55] [main/WARN]: The coremod OpenModsCorePlugin (openmods.core.OpenModsCorePlugin) is not signed!
-[14:12:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in RealBench-Nomi-CEu-1.0.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:55] [main/WARN]: The coremod RealBench-Core (com.nomiceu.realbench.core.RealBenchCore) is not signed!
-[14:12:55] [main/WARN]: The coremod io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:55] [main/WARN]: The coremod serializationisbad (io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod) is not signed!
-[14:12:55] [main/INFO]: Initializing SerializationIsBad, implementation type: legacyforge
-[14:12:56] [main/INFO]: Using remote config file
-[14:12:56] [main/INFO]: Loaded config file
-[14:12:56] [main/INFO]:   Blocking Enabled: true
-[14:12:56] [main/INFO]:   Loaded Patch Modules: 39
-[14:12:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in UniversalTweaks-1.12.2-1.18.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:56] [main/WARN]: The coremod UniversalTweaksCore (mod.acgaming.universaltweaks.core.UTLoadingPlugin) is not signed!
-[14:12:56] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.6.11.jar
-[14:12:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in phosphor-1.12.2-0.2.9.2-SNAPSHOT-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:12:56] [main/WARN]: The coremod PhosphorFMLPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLPlugin) is not signed!
-[14:12:56] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:12:56] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[14:12:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/imsopoor/nomifactory/./mods/!mixinbooter-10.7.jar Service=LaunchWrapper Env=SERVER
-[14:12:56] [main/DEBUG]: Instantiating coremod class MixinBooterPlugin
-[14:12:56] [main/TRACE]: coremod named MixinBooter is loading
-[14:12:56] [main/WARN]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:56] [main/WARN]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
-[14:12:56] [main/INFO]: Initializing Mixins...
-[14:12:56] [main/INFO]: Compatibility level set to JAVA_8
-[14:12:56] [main/INFO]: Initializing MixinExtras...
-[14:12:56] [main/INFO]: Gathering present mods...
-[14:12:57] [main/INFO]: Finished gathering 26 coremods...
-[14:12:57] [main/DEBUG]: Enqueued coremod MixinBooter
-[14:12:57] [main/DEBUG]: Instantiating coremod class MalisisCorePlugin
-[14:12:57] [main/WARN]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:12:57] [main/WARN]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
-[14:12:57] [main/DEBUG]: Enqueued coremod MalisisCorePlugin
-[14:12:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[14:12:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[14:12:57] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:12:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:12:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:57] [main/DEBUG]: Injecting coremod -Bansoukou- \{zone.rong.bansoukou.BansoukouCoreMod\} class transformers
-[14:12:57] [main/DEBUG]: Injection complete
-[14:12:57] [main/DEBUG]: Running coremod plugin for -Bansoukou- \{zone.rong.bansoukou.BansoukouCoreMod\}
-[14:12:57] [main/DEBUG]: Running coremod plugin -Bansoukou-
-[14:12:57] [main/DEBUG]: Coremod plugin class BansoukouCoreMod run successfully
-[14:12:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:57] [main/DEBUG]: Injecting coremod UniversalTweaksCore \{mod.acgaming.universaltweaks.core.UTLoadingPlugin\} class transformers
-[14:12:57] [main/DEBUG]: Injection complete
-[14:12:57] [main/DEBUG]: Running coremod plugin for UniversalTweaksCore \{mod.acgaming.universaltweaks.core.UTLoadingPlugin\}
-[14:12:57] [main/DEBUG]: Running coremod plugin UniversalTweaksCore
-[14:12:57] [main/DEBUG]: Coremod plugin class UTLoadingPlugin run successfully
-[14:12:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:12:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:57] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
-[14:12:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[14:12:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[14:12:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[14:12:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
-[14:12:57] [main/DEBUG]: Injection complete
-[14:12:57] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
-[14:12:57] [main/DEBUG]: Running coremod plugin FMLCorePlugin
-[14:12:59] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[14:12:59] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
-[14:12:59] [main/DEBUG]: Running coremod plugin FMLForgePlugin
-[14:12:59] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod ConfigAnytimePlugin \{com.cleanroommc.configanytime.ConfigAnytimePlugin\} class transformers
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for ConfigAnytimePlugin \{com.cleanroommc.configanytime.ConfigAnytimePlugin\}
-[14:12:59] [main/DEBUG]: Running coremod plugin ConfigAnytimePlugin
-[14:12:59] [main/DEBUG]: Coremod plugin class ConfigAnytimePlugin run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod AdvancedRocketryPlugin \{zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin\} class transformers
-[14:12:59] [main/TRACE]: Registering transformer zmaster587.advancedRocketry.asm.ClassTransformer
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for AdvancedRocketryPlugin \{zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin\}
-[14:12:59] [main/DEBUG]: Running coremod plugin AdvancedRocketryPlugin
-[14:12:59] [main/DEBUG]: Coremod plugin class AdvancedRocketryPlugin run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
-[14:12:59] [main/DEBUG]: Running coremod plugin CreativePatchingLoader
-[14:12:59] [main/DEBUG]: Coremod plugin class CreativePatchingLoader run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod Forgelin-Continuous \{io.github.chaosunity.forgelin.preloader.ForgelinPlugin\} class transformers
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for Forgelin-Continuous \{io.github.chaosunity.forgelin.preloader.ForgelinPlugin\}
-[14:12:59] [main/DEBUG]: Running coremod plugin Forgelin-Continuous
-[14:12:59] [main/DEBUG]: Coremod plugin class ForgelinPlugin run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod FTBUltimineASM \{com.feed_the_beast.mods.ftbultimine.FTBUltimineLoadingPlugin\} class transformers
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for FTBUltimineASM \{com.feed_the_beast.mods.ftbultimine.FTBUltimineLoadingPlugin\}
-[14:12:59] [main/DEBUG]: Running coremod plugin FTBUltimineASM
-[14:12:59] [main/DEBUG]: Coremod plugin class FTBUltimineLoadingPlugin run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod JeiUtilitiesLoadingPlugin \{com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin\} class transformers
-[14:12:59] [main/TRACE]: Registering transformer com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesClassTransformer
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for JeiUtilitiesLoadingPlugin \{com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin\}
-[14:12:59] [main/DEBUG]: Running coremod plugin JeiUtilitiesLoadingPlugin
-[14:12:59] [main/DEBUG]: Coremod plugin class JeiUtilitiesLoadingPlugin run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod LittlePatchingLoader \{com.creativemd.littletiles.LittlePatchingLoader\} class transformers
-[14:12:59] [main/TRACE]: Registering transformer com.creativemd.littletiles.LittleTilesTransformer
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for LittlePatchingLoader \{com.creativemd.littletiles.LittlePatchingLoader\}
-[14:12:59] [main/DEBUG]: Running coremod plugin LittlePatchingLoader
-[14:12:59] [main/DEBUG]: Coremod plugin class LittlePatchingLoader run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod LogisticsPipesCoreLoader \{logisticspipes.asm.LogisticsPipesCoreLoader\} class transformers
-[14:12:59] [main/TRACE]: Registering transformer logisticspipes.asm.LogisticsClassTransformer
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for LogisticsPipesCoreLoader \{logisticspipes.asm.LogisticsPipesCoreLoader\}
-[14:12:59] [main/DEBUG]: Running coremod plugin LogisticsPipesCoreLoader
-[14:12:59] [main/DEBUG]: Coremod plugin class LogisticsPipesCoreLoader run successfully
-[14:12:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:12:59] [main/DEBUG]: Injecting coremod LoliASM \{zone.rong.loliasm.core.LoliLoadingPlugin\} class transformers
-[14:12:59] [main/DEBUG]: Injection complete
-[14:12:59] [main/DEBUG]: Running coremod plugin for LoliASM \{zone.rong.loliasm.core.LoliLoadingPlugin\}
-[14:12:59] [main/DEBUG]: Running coremod plugin LoliASM
-[14:13:00] [main/DEBUG]: Coremod plugin class LoliLoadingPlugin run successfully
-[14:13:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:13:00] [main/DEBUG]: Injecting coremod NAE2-Core \{co.neeve.nae2.NAE2MixinPlugin\} class transformers
-[14:13:00] [main/DEBUG]: Injection complete
-[14:13:00] [main/DEBUG]: Running coremod plugin for NAE2-Core \{co.neeve.nae2.NAE2MixinPlugin\}
-[14:13:00] [main/DEBUG]: Running coremod plugin NAE2-Core
-[14:13:00] [main/DEBUG]: Coremod plugin class NAE2MixinPlugin run successfully
-[14:13:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:13:00] [main/DEBUG]: Injecting coremod RealBench-Core \{com.nomiceu.realbench.core.RealBenchCore\} class transformers
-[14:13:00] [main/DEBUG]: Injection complete
-[14:13:00] [main/DEBUG]: Running coremod plugin for RealBench-Core \{com.nomiceu.realbench.core.RealBenchCore\}
-[14:13:00] [main/DEBUG]: Running coremod plugin RealBench-Core
-[14:13:00] [main/DEBUG]: Coremod plugin class RealBenchCore run successfully
-[14:13:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:13:00] [main/DEBUG]: Injecting coremod serializationisbad \{io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod\} class transformers
-[14:13:00] [main/TRACE]: Registering transformer io.dogboy.serializationisbad.legacyforge.SIBTransformer
-[14:13:00] [main/DEBUG]: Injection complete
-[14:13:00] [main/DEBUG]: Running coremod plugin for serializationisbad \{io.dogboy.serializationisbad.legacyforge.SerializationIsBadCoreMod\}
-[14:13:00] [main/DEBUG]: Running coremod plugin serializationisbad
-[14:13:00] [main/DEBUG]: Coremod plugin class SerializationIsBadCoreMod run successfully
-[14:13:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:13:00] [main/DEBUG]: Injecting coremod PhosphorFMLPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLPlugin\} class transformers
-[14:13:00] [main/DEBUG]: Injection complete
-[14:13:00] [main/DEBUG]: Running coremod plugin for PhosphorFMLPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLPlugin\}
-[14:13:00] [main/DEBUG]: Running coremod plugin PhosphorFMLPlugin
-[14:13:00] [main/DEBUG]: Coremod plugin class PhosphorFMLPlugin run successfully
-[14:13:00] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[14:13:00] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@2f84acf7
-[14:13:00] [main/DEBUG]: Injecting coremod MixinBooter \{zone.rong.mixinbooter.MixinBooterPlugin\} class transformers
-[14:13:00] [main/DEBUG]: Injection complete
-[14:13:00] [main/DEBUG]: Running coremod plugin for MixinBooter \{zone.rong.mixinbooter.MixinBooterPlugin\}
-[14:13:00] [main/DEBUG]: Running coremod plugin MixinBooter
-[14:13:00] [main/INFO]: Loading early loader zone.rong.loliasm.core.LoliLoadingPlugin for its mixins.
-[14:13:00] [main/INFO]: Adding [mixins.devenv.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.vfix_bugfixes.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.internal.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.vanities.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.registries.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.stripitemstack.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.lockcode.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.recipes.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.misc_fluidregistry.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.forgefixes.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.capability.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.efficienthashing.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.priorities.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.crashes.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins.fix_mc129057.json] mixin configuration.
-[14:13:00] [main/INFO]: Loading early loader com.nomiceu.realbench.core.RealBenchCore for its mixins.
-[14:13:00] [main/INFO]: Adding [mixins.realbench.json] mixin configuration.
-[14:13:00] [main/INFO]: Loading early loader mod.acgaming.universaltweaks.core.UTLoadingPlugin for its mixins.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.misc.difficulty.multiplayer.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.misc.buttons.snooper.server.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.ai.saddledwandering.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.world.chunksaving.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.items.itementities.server.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.blocks.leafdecay.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.spawning.husk.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.maxhealth.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.falling.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.misc.crafteditemstatistics.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.spawning.stray.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.comparatortiming.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.hopper.boundingbox.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.entityradiuscheck.lesscollisions.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.items.eating.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.burning.mobs.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.miningglitch.server.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.world.tileentities.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.deathtime.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.tracker.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.pathfinding.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.ai.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.minecart.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.skeletonaim.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.prefixcheck.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.misc.particlespawning.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.misc.durabilitycap.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.misc.recipebook.server.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.suffocation.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.advancements.logging.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.items.rarity.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.misc.packetsize.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.blocks.sapling.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.sleeping.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.dyeblending.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.craftingcache.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.items.xpbottle.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.desync.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.attackradius.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.entitylists.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.itemframevoid.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.hopper.tile.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.blocks.lenientpaths.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.misc.difficulty.singleplayer.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.misc.timeouts.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.world.village.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/mixins.vanilla.mod.accessors.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.taming.horse.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.ladderflying.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.voidteleport.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.world.stronghold.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.entityradiuscheck.reducesearchsize.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.dimensionchange.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.destroypacket.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.horsefalling.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.misc.incurablepotions.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.world.witchhut.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.boundingbox.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.mount.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.entities.burning.horse.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.blockfire.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.saturation.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.boat.breaking.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.misc.commands.seed.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.world.portal.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.boat.offset.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.blocks.piston.tile.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.blocks.endportal.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.untippedarrowparticles.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.blocks.bedobstruction.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/bugfixes/mixins.entities.entityid.json] mixin configuration.
-[14:13:00] [main/INFO]: Adding [mixins/tweaks/mixins.performance.advancements.triggers.json] mixin configuration.
-[14:13:00] [main/INFO]: Loading early loader me.jellysquid.mods.phosphor.core.PhosphorFMLPlugin for its mixins.
-[14:13:00] [main/INFO]: Adding [mixins.phosphor.json] mixin configuration.
-[14:13:00] [main/DEBUG]: Coremod plugin class MixinBooterPlugin run successfully
-[14:13:00] [main/DEBUG]: Injecting coremod MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\} class transformers
-[14:13:00] [main/DEBUG]: Injection complete
-[14:13:00] [main/DEBUG]: Running coremod plugin for MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\}
-[14:13:00] [main/DEBUG]: Running coremod plugin MalisisCorePlugin
-[14:13:00] [main/DEBUG]: Coremod plugin class MalisisCorePlugin run successfully
-[14:13:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:13:00] [main/DEBUG]: Injecting coremod OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\} class transformers
-[14:13:00] [main/TRACE]: Registering transformer openmods.core.OpenModsClassTransformer
-[14:13:00] [main/DEBUG]: Injection complete
-[14:13:00] [main/DEBUG]: Running coremod plugin for OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\}
-[14:13:00] [main/DEBUG]: Running coremod plugin OpenModsCorePlugin
-[14:13:00] [main/DEBUG]: Coremod plugin class OpenModsCorePlugin run successfully
-[14:13:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:13:00] [main/INFO]: Begin register to-be-transformed classes
-[14:13:00] [main/INFO]: Skipping registration...
-[14:13:00] [main/INFO]: Registration for transformation is completed
-[14:13:00] [main/INFO]: The lolis are now preparing to bytecode manipulate your game.
-[14:13:00] [main/INFO]: Adding class net.minecraft.util.ResourceLocation to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.util.registry.RegistrySimple to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.nbt.NBTTagString to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraftforge.fml.common.discovery.ModCandidate to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraftforge.fml.common.discovery.ASMDataTable$ASMData to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.item.ItemStack to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.item.crafting.FurnaceRecipes to the transformation queue
-[14:13:00] [main/INFO]: Adding class hellfirepvp.astralsorcery.common.enchantment.amulet.PlayerAmuletHandler to the transformation queue
-[14:13:00] [main/INFO]: Adding class mezz.jei.suffixtree.Edge to the transformation queue
-[14:13:00] [main/INFO]: Adding class betterwithmods.event.BlastingOilEvent to the transformation queue
-[14:13:00] [main/INFO]: Adding class betterwithmods.common.items.ItemMaterial to the transformation queue
-[14:13:00] [main/INFO]: Adding class lach_01298.qmd.render.entity.BeamRenderer to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.dries007.tfc.objects.entity.EntityFallingBlockTFC to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.item.ItemStack to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
-[14:13:00] [main/INFO]: Adding class net.minecraft.nbt.NBTTagCompound to the transformation queue
-[14:13:00] [main/DEBUG]: Validating minecraft
+[00:01:09] [Server thread/INFO]: Delpion lost connection: Disconnected
+[00:01:09] [Server thread/INFO]: §eDelpion§r§e left the game§r
+[00:01:09] [Server thread/INFO]: [voicechat] Disconnecting client Delpion
+[00:13:42] [Netty Epoll Server IO #2/INFO]: Client protocol version 2
+[00:13:42] [Netty Epoll Server IO #2/INFO]: Client attempting to join with 190 mods : tombmanygraves@1.12-4.2.0,p455w0rdslib@2.3.161,enderiointegrationforestry@5.3.70,modularmachinery@1.10.0,creativecoredummy@1.0.0,openmods@0.12.3,clipboard@@VERSION@,jecalculation@1.12.2-3.2.6,extendedcrafting@1.7.0.6,universaltweaks@1.18.0,cofhcore@4.6.6,draconicevolution@2.3.28,contenttweaker@1.12.2-4.10.0,thermalinnovation@0.3.6,modnametooltip@1.10.1,endercore@1.12.2-0.5.77,enderioendergy@5.3.70,ctm@MC1.12.2-1.0.2.31,betterquesting@4.1.0,controlling@3.0.10,placebo@1.6.0,ae2stuff@0.7.0.4,rangedpumps@0.5,bansoukou@4.3.1,bookshelf@2.3.590,forgelin@1.8.4,buildinggadgets@2.8.4,wct@3.12.97,cofhworld@1.4.0,darkutils@1.8.230,betterbuilderswands@0.13.2,morpheus@1.12.2-3.5.106,ftblib@5.4.7.2,enderioconduitsrefinedstorage@5.3.70,redstonearsenal@2.6.6,librarianliblate@4.22,carryon@1.12.3,guideapi@1.12-2.1.8-63,stackrefill@2.0,enderioconduits@5.3.70,malisisdoors@1.12.2-7.3.0,architecturecraft@@VERSION@,actuallybaubles@1.1,nonetherportals@1.1.0,realbench@1.0.4,malisiscore@1.12.2-6.5.1-SNAPSHOT,tipthescales@1.0.4,torchmaster@1.8.5.0,crafttweakerjei@2.0.3,openglider@@VERSION@,enderiomachines@5.3.70,morefurnaces@1.11.0,mtlib@3.0.7,redstoneflux@2.1.1,openmodscore@0.12.3,moresoundconfig@1.0.4,advancedrocketry@1.7.0.-240,vehicle@0.44.1,modtweaker@4.0.19,simplefluidtanks@@VERSION@,ceu@1.0.4.3,densemetals@2.0.0,nae2@1.6.4,resourceloader@1.5.3,bountiful@2.2.2,spark@1.5.2,actuallyadditions@1.12.2-r152,solarflux@12.4.11,littletilescore@1.0.0,patchouli@1.0-23.6,collective@3.0,shadowmc@3.8.0,topaddons@1.12.2-1.13.0,ceramics@1.12-1.3.7b,elevatorid@1.3.14,lostcities@2.0.22,enderioinvpanel@5.3.70,ftbultimine@1202.3.5,FML@8.0.99.99,obfuscate@0.4.2,thermalexpansion@5.5.7,enderiointegrationtic@5.3.70,enderioconduitsappliedenergistics@5.3.70,cns@1.0,libvulpes@0.4.2.-75,enderio-conduit-replacer@1.1.0,deepmoblearning@1.2.3,moreoverlays@1.15.1,clearwater@1.2,craftelytra@1.2,unilib@1.2.0,gtadditions@1.12.2-3.0.5,customstartinggear@1.2.0,codechickenlib@3.2.3.358,armorplus@1.12.2-11.25.1.62,effortlessbuilding@1.12.2-2.16,lumberjack@1.4.1,justenoughdimensions@1.6.0-dev.20200416.184714,betteradvancements@0.1.0.77,craftpresence@2.7.0,forgelin_continuous@2.3.0.0,configanytime@3.0,clienttweaks@3.1.11,justanotherautoclicker@1.0.0,ctgui@1.0.0,ae2wtlib@1.0.34,cucumber@1.1.3,simplyjetpacks@2.2.15.69,mixinbooter@10.7,trashslot@8.4.10,librarianlib@4.22,projectintelligence@1.0.9,snad@1.12.1-1.7.09.16a,supersoundmuffler@1.0.2.10,jei@4.29.15,defaultworldgenerator-port@1.12-2.3.1,worleycaves@1.5.2,custommainmenu@2.0.9.1,modulardiversity@1.5,thermalcultivation@0.3.6,scannable@1.6.3.26,loliasm@5.30,xtones@1.2.2,thermalfoundation@2.6.7,bdlib@1.14.4.1,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1,morelibs@1.2.2,appliedenergistics2@v0.56.7,dimensionaledibles@1.12.2-1.6.4,nuclearcraft@2.18y,travelersbackpack@1.0.35,framedcompactdrawers@1.2.7,enderiointegrationticlate@5.3.70,chameleon@1.12-4.1.3,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,packagedexcrafting@1.12.2-1.0.2.28,crafttweaker@4.1.20,enderstorage@2.4.6.137,voicechat_api@2.6.0,skinlayers3d@1.2.0,forge@14.23.5.2860,gregtech@1.18.10,fasterladderclimbing@0.1-146,morecauldrons@1.4.6,phosphor-lighting@1.12.2-0.2.9.2,brandonscore@2.4.20,ftbutilities@5.4.1.131,chesttransporter@2.8.8,openblocks@1.8.3.1,craftingtweaks@9.0.1,minecraft@1.12.2,inspirations@1.12.2-0.2.9,voicechat@1.12.2-2.6.11,theoneprobe@1.4.28,mousetweaks@2.10,avaritia@3.3.0,baubles@1.5.2,hooked@%VERSION%,advsolars@1.0,creativecore@1.10.0,packagedauto@1.12.2-1.0.18.63,enderiopowertools@5.3.70,orespawn@3.3.1,jeiutilities@0.2.13,enderio@5.3.70,extrautils2@1.0,mantle@1.12-1.3.3.55,loottweaker@0.2.0,ftbbackups@1.1.0.1,oauth@1.06.4,advancedrocketrycore@1,storagedrawers@5.5.3,offlineskins@1.12.2-v6,moresoundconfigcore@1.0.0,enderiobase@5.3.70,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.3.70,foamfix@@VERSION@,thedragonlib@1.12.2-5.3.0,dynamistics@1.0.2,multiblocktweaker@1.12.2-stable-1.8.1,logisticspipes@0.10.4.7,moreplates@5.5.2,littletiles@1.5.0,forestry@5.8.2.422,base@3.14.0
+[00:13:42] [Netty Epoll Server IO #2/INFO]: CLIENT
+[00:13:42] [Netty Epoll Server IO #2/INFO]: Skipping config sync, No mods have registered a syncable config.
+[00:13:43] [Server thread/INFO]: [Server thread] Server side modded connection established
+[00:13:43] [Server thread/INFO]: Delpion[/127.96.196.110:56961] logged in with entity id 789869 at (-7.1796062232028754, 80.0, -8.048089933875925)
+[00:13:43] [Server thread/INFO]: §eDelpion§r§e joined the game§r
+[00:13:43] [Server thread/INFO]: Sending SyncedConfig to freshly logged in player Delpion.
+[00:13:43] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[00:13:43] [Server thread/INFO]: Sending Player Data to player Delpion with UUID 3744ecfd-4d8a-35e7-a554-706f2d802af4.
+[00:13:44] [Server thread/INFO]: [voicechat] Received secret request of Delpion (20)
+[00:13:44] [Server thread/INFO]: [voicechat] Sent secret to Delpion
+[00:13:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3744ecfd-4d8a-35e7-a554-706f2d802af4
+[00:13:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3744ecfd-4d8a-35e7-a554-706f2d802af4
+[00:13:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Delpion (3744ecfd-4d8a-35e7-a554-706f2d802af4) successfully connected to voice chat
+[00:19:29] [Server thread/INFO]: §dServer Backup started!§r
+[00:19:29] [File IO Thread/INFO]: Deleting old backup: 2026-02-21-16-53-23.zip
+[00:19:29] [File IO Thread/INFO]: Backing up 575 files...
+[00:19:29] [File IO Thread/INFO]: Compressing 575 files...
+[00:19:29] [Server thread/INFO]: [0 | 0%]: world/level.dat_old
+[00:19:41] [File IO Thread/INFO]: Done compressing in 00:11 seconds (174.4MB)!
+[00:19:41] [File IO Thread/INFO]: Created /workspaces/imsopoor/nomifactory/./backups/2026-02-22-00-19-29.zip from /workspaces/imsopoor/nomifactory/./world
+[00:19:41] [File IO Thread/INFO]: §dServer backup done in §r§d00:11§r§d! (§r§d174.4MB | 871.9MB§r§d)§r
+[00:20:50] [Server thread/WARN]: Delpion moved wrongly!
+[00:35:45] [Server thread/INFO]: Delpion is now AFK
+[00:36:32] [Server thread/INFO]: Delpion is no longer AFK
+[00:43:29] [Server thread/ERROR]: NetworkEventFiringHandler exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.FMLEventChannel.sendToServer(FMLEventChannel.java:227) [FMLEventChannel.class:?]
+	at appeng.core.sync.network.NetworkHandler.sendToServer(NetworkHandler.java:124) [NetworkHandler.class:?]
+	at appeng.core.sync.packets.PacketInventoryAction.serverPacketData(PacketInventoryAction.java:189) [PacketInventoryAction.class:?]
+	at appeng.core.sync.network.AppEngServerPacketHandler$1.call(AppEngServerPacketHandler.java:50) [AppEngServerPacketHandler$1.class:?]
+	at appeng.core.sync.AppEngPacket.processPacket(AppEngPacket.java:108) [AppEngPacket.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_482]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_482]
+	at net.minecraft.util.Util.runTask(SourceFile:529) [h.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.updateTimeLightAndEntities(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_482]
+[00:49:29] [Server thread/INFO]: §dServer Backup started!§r
+[00:49:29] [File IO Thread/INFO]: Deleting old backup: 2026-02-21-22-19-29.zip
+[00:49:29] [File IO Thread/INFO]: Backing up 575 files...
+[00:49:29] [File IO Thread/INFO]: Compressing 575 files...
+[00:49:41] [File IO Thread/INFO]: Done compressing in 00:11 seconds (174.4MB)!
+[00:49:41] [File IO Thread/INFO]: Created /workspaces/imsopoor/nomifactory/./backups/2026-02-22-00-49-29.zip from /workspaces/imsopoor/nomifactory/./world
+[00:49:41] [File IO Thread/INFO]: §dServer backup done in §r§d00:11§r§d! (§r§d174.4MB | 871.9MB§r§d)§r
+[01:06:53] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oCreative Mode§r§7§o]§r
+[01:07:05] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oSurvival Mode§r§7§o]§r
+[01:15:41] [Server thread/ERROR]: NetworkEventFiringHandler exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.FMLEventChannel.sendToServer(FMLEventChannel.java:227) [FMLEventChannel.class:?]
+	at appeng.core.sync.network.NetworkHandler.sendToServer(NetworkHandler.java:124) [NetworkHandler.class:?]
+	at appeng.core.sync.packets.PacketInventoryAction.serverPacketData(PacketInventoryAction.java:189) [PacketInventoryAction.class:?]
+	at appeng.core.sync.network.AppEngServerPacketHandler$1.call(AppEngServerPacketHandler.java:50) [AppEngServerPacketHandler$1.class:?]
+	at appeng.core.sync.AppEngPacket.processPacket(AppEngPacket.java:108) [AppEngPacket.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_482]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_482]
+	at net.minecraft.util.Util.runTask(SourceFile:529) [h.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.updateTimeLightAndEntities(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_482]
+[01:16:56] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oCreative Mode§r§7§o]§r
+[01:17:06] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oSurvival Mode§r§7§o]§r
+[01:18:30] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oCreative Mode§r§7§o]§r
+[01:18:40] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oSurvival Mode§r§7§o]§r
+[01:19:29] [Server thread/INFO]: §dServer Backup started!§r
+[01:19:29] [File IO Thread/INFO]: Deleting old backup: 2026-02-21-22-49-29.zip
+[01:19:29] [File IO Thread/INFO]: Backing up 575 files...
+[01:19:29] [File IO Thread/INFO]: Compressing 575 files...
+[01:19:40] [File IO Thread/INFO]: Done compressing in 00:11 seconds (174.4MB)!
+[01:19:40] [File IO Thread/INFO]: Created /workspaces/imsopoor/nomifactory/./backups/2026-02-22-01-19-29.zip from /workspaces/imsopoor/nomifactory/./world
+[01:19:40] [File IO Thread/INFO]: §dServer backup done in §r§d00:11§r§d! (§r§d174.4MB | 871.9MB§r§d)§r
+[01:49:29] [Server thread/INFO]: §dServer Backup started!§r
+[01:49:29] [File IO Thread/INFO]: Deleting old backup: 2026-02-21-23-19-29.zip
+[01:49:29] [File IO Thread/INFO]: Backing up 575 files...
+[01:49:29] [File IO Thread/INFO]: Compressing 575 files...
+[01:49:41] [File IO Thread/INFO]: Done compressing in 00:11 seconds (174.4MB)!
+[01:49:41] [File IO Thread/INFO]: Created /workspaces/imsopoor/nomifactory/./backups/2026-02-22-01-49-29.zip from /workspaces/imsopoor/nomifactory/./world
+[01:49:41] [File IO Thread/INFO]: §dServer backup done in §r§d00:11§r§d! (§r§d174.4MB | 871.9MB§r§d)§r
+[01:55:38] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oCreative Mode§r§7§o]§r
+[01:55:45] [Server thread/INFO]: §7§o[§r§7§oDelpion§r§7§o: §r§7§oSet own game mode to §r§7§oSurvival Mode§r§7§o]§r
+[01:56:29] [Server thread/INFO]: Delpion lost connection: Disconnected
+[01:56:29] [Server thread/INFO]: §eDelpion§r§e left the game§r
+[01:56:29] [Server thread/INFO]: [voicechat] Disconnecting client Delpion
+[01:56:45] [Server thread/INFO]: Stopping the server§r
+[01:56:45] [Server thread/INFO]: Stopping server
+[01:56:45] [Server thread/INFO]: Saving players
+[01:56:45] [Server thread/INFO]: Saving worlds
+[01:56:45] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:56:45] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[01:56:45] [Server thread/INFO]: Saving chunks for level 'world'/JED Surface Loaded 0
+[01:56:45] [Server thread/INFO]: Saving chunks for level 'world'/planet
+[01:56:46] [Server thread/INFO]: Unloading dimension 0
+[01:56:46] [Server thread/INFO]: Unloading dimension 2
+[01:56:46] [Server thread/INFO]: Unloading dimension 119
+[01:56:46] [Server thread/INFO]: Unloading dimension 100
+[01:56:46] [Server thread/INFO]: Unloaded WorldData!
+[01:56:46] [Server thread/INFO]: Reloading the main configs from file '/workspaces/imsopoor/nomifactory/config/justenoughdimensions/justenoughdimensions.cfg'
+[01:56:46] [Server thread/INFO]: Server Closing...
+[01:56:46] [Server Shutdown Thread/INFO]: Stopping server

@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2026-02-21 16:34:51 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:start/1_binder_composite": {
     "criteria": {
       "inv_changed-enderio:binder_composite": "2026-01-21 13:43:06 +0000"
@@ -733,6 +739,7 @@
       "inv_changed-enderio:power_conduit_enhanced2": "2026-01-29 22:13:30 +0000",
       "inv_changed-enderio:liquid_conduit_pressurized2": "2026-01-21 13:43:38 +0000",
       "inv_changed-enderio:power_conduit_ender2": "2026-02-03 11:26:40 +0000",
+      "inv_changed-enderio:redstone_conduit2": "2026-02-21 16:34:51 +0000",
       "inv_changed-enderio:power_conduit2": "2026-01-21 16:36:33 +0000",
       "inv_changed-enderio:item_conduit2": "2026-01-25 12:02:33 +0000",
       "inv_changed-enderio:liquid_conduit_ender2": "2026-02-04 23:16:05 +0000"
