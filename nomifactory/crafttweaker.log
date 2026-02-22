@@ -1,23 +1,23 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Jessie Sims
-embeddedt
+Jellycraft
+NerdyWhiteGuy
+Spencer Gilbert
+Peregrinus11
 Jonathan McManus
 Ncc1702
 Pongo Sapiens
-Genryu
 NickT
-Ivy_
-Jordan Pineo
-DreamThorn
-NerdyWhiteGuy
-Quaternary
-Zuniroa
-Peregrinus11
 Lucas
-Spencer Gilbert
-Jellycraft
-Belathus
+Zuniroa
+Quaternary
+embeddedt
+Genryu
+Jessie Sims
+Jordan Pineo
 Hooley
+DreamThorn
+Ivy_
+Belathus
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -68,7 +68,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: zzzFixStuff.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[-9998:crafttweaker]: JEICleanup.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[-9999:crafttweaker]: Forestry.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 274ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 318ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [gregtech]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [gregtech]
 [PREINITIALIZATION][SERVER][INFO] IgnoreBracketErrorPreprocessor found in {[0:crafttweaker]: ModSpecific/AppliedEnergistics2.zs}, ignoring errors in that file
@@ -117,7 +117,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: zzzFixStuff.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[-9998:crafttweaker]: JEICleanup.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[-9999:crafttweaker]: Forestry.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 74ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 77ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [gregtech], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][SERVER][INFO] IgnoreBracketErrorPreprocessor found in {[0:crafttweaker]: ModSpecific/AppliedEnergistics2.zs}, ignoring errors in that file
@@ -166,7 +166,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: zzzFixStuff.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[-9998:crafttweaker]: JEICleanup.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[-9999:crafttweaker]: Forestry.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 316ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 205ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [gregtech], [contenttweaker], [recipeevent | crafttweaker]]
@@ -601,13 +601,13 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[0:contenttweaker]: ContentTweaker.zs} as we are currently loading with a different loader
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: CraftingCoreUpgrade.zs}
 [INITIALIZATION][SERVER][INFO] --- CraftingCoreUpgrade.zs initialized ---
-[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Restonia Crystal Block
-[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Diamatine Crystal Block
-[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Emeradic Crystal Block
 [INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Enori Crystal Block
-[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Void Crystal Block
-[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Canola Seed
 [INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Palis Crystal Block
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Emeradic Crystal Block
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Diamatine Crystal Block
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Canola Seed
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Void Crystal Block
+[INITIALIZATION][SERVER][INFO] Adding a Combination Crafting recipe for Empowered Restonia Crystal Block
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: CustomWrench.zs}
 [INITIALIZATION][SERVER][INFO] Adding Crescent Hammer to ore dictionary entry wrenchCustom
 [INITIALIZATION][SERVER][INFO] Adding Yeta Wrench to ore dictionary entry wrenchCustom
@@ -895,7 +895,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <forestry:naturalist_helmet>: "Try out the Engineer's Goggles from Actually Additions instead :)"
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <forestry:worktable>: "This item is obsolete and will be removed in the next update."
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <forestry:worktable>: "Please use the GregTech Crafting Station instead."
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 2527ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 2200ms
 [POSTINITIALIZATION][SERVER][INFO] Removing Inscriber Entry for Printed Silicon
 [POSTINITIALIZATION][SERVER][INFO] Adding Inscriber Entry for Printed Silicon
 [POSTINITIALIZATION][SERVER][INFO] Removing Inscriber Entry for Engineering Processor
@@ -1166,8 +1166,8 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Structure Tower with name ct_shaped1763366506
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pressure Tank with name ar_pressure_tank_0
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Super High Pressure Tank with name ar_pressure_tank_1
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Low Pressure Tank with name ar_pressure_tank_2
-[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for High Pressure Tank with name ar_pressure_tank_3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for High Pressure Tank with name ar_pressure_tank_2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Low Pressure Tank with name ar_pressure_tank_3
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.meta_item.name with name gt_field_generator_lv
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.meta_item.name with name gt_field_generator_mv
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.meta_item.name with name gt_field_generator_hv
